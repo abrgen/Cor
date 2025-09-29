@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.sorteopremios.com.ico",
     "slug": "blog-sorteopremios-com",
     "status": "down",
-    "uptime": "3.45%",
-    "uptimeDay": "3.45%",
-    "uptimeWeek": "3.45%",
-    "uptimeMonth": "3.45%",
-    "uptimeYear": "3.45%",
+    "uptime": "1.46%",
+    "uptimeDay": "1.46%",
+    "uptimeWeek": "1.46%",
+    "uptimeMonth": "1.46%",
+    "uptimeYear": "1.46%",
     "time": 74,
     "timeDay": 74,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2025-09-29": 1
+      "2025-09-29": 2
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://daily.g0crm.com",
     "icon": "https://icons.duckduckgo.com/ip3/daily.g0crm.com.ico",
     "slug": "daily-g0crm-com",
-    "status": "down",
-    "uptime": "5.87%",
-    "uptimeDay": "5.87%",
-    "uptimeWeek": "5.87%",
-    "uptimeMonth": "5.87%",
-    "uptimeYear": "5.87%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "status": "degraded",
+    "uptime": "1.44%",
+    "uptimeDay": "1.44%",
+    "uptimeWeek": "1.44%",
+    "uptimeMonth": "1.44%",
+    "uptimeYear": "1.44%",
+    "time": 3319,
+    "timeDay": 3319,
+    "timeWeek": 3319,
+    "timeMonth": 3319,
+    "timeYear": 3319,
     "dailyMinutesDown": {
-      "2025-09-29": 1
+      "2025-09-29": 2
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sorteopremios.com.ico",
     "slug": "sorteopremios-com",
     "status": "down",
-    "uptime": "27.13%",
-    "uptimeDay": "27.13%",
-    "uptimeWeek": "27.13%",
-    "uptimeMonth": "27.13%",
-    "uptimeYear": "27.13%",
+    "uptime": "10.65%",
+    "uptimeDay": "10.65%",
+    "uptimeWeek": "10.65%",
+    "uptimeMonth": "10.65%",
+    "uptimeYear": "10.65%",
     "time": 60,
     "timeDay": 60,
     "timeWeek": 60,
     "timeMonth": 60,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2025-09-29": 0
+      "2025-09-29": 1
     }
   },
   {
@@ -263,18 +263,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.milopciones.es.ico",
     "slug": "app-milopciones-es",
     "status": "down",
-    "uptime": "10.48%",
-    "uptimeDay": "10.48%",
-    "uptimeWeek": "10.48%",
-    "uptimeMonth": "10.48%",
-    "uptimeYear": "10.48%",
+    "uptime": "3.35%",
+    "uptimeDay": "3.35%",
+    "uptimeWeek": "3.35%",
+    "uptimeMonth": "3.35%",
+    "uptimeYear": "3.35%",
     "time": 125,
     "timeDay": 125,
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-09-29": 0
+      "2025-09-29": 1
     }
   },
   {
