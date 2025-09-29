@@ -155,7 +155,7 @@ status-website:
   logoUrl: https://www.coregistros.com/wp-content/uploads/2022/07/cropped-coregistros-favicon-32x32.png
   theme: dark
   introTitle: "**Upptime/Coregistros** – monitor de disponibilidad y página de estado"
-  introMessage: Monitorizamos en tiempo real la disponibilidad y los tiempos de respuesta de los sitios y APIs de **Coregistros**. Todo el histórico se genera automáticamente con GitHub Actions, Issues y Pages desde nuestro repositorio: [abrgen/Cor](https://github.com/abrgen/Cor).
+  introMessage: Monitorizamos en tiempo real la disponibilidad y los tiempos de respuesta de los sitios y APIs de **Coregistros**
   navbar:
     - title: Estado
       href: /
