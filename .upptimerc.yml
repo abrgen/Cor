@@ -161,13 +161,17 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/abrgen/Cor
+  
   # baseUrl: /<nombre-del-repo>     # si usas GitHub Pages de proyecto
   # baseUrl: /                      # si usas dominio propio en Pages
   # logoUrl: https://coregistros.com/path/logo.png
   # favicon: https://coregistros.com/path/favicon-32x32.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  
+notifications:
+  - type: telegram
+    token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    to: ${{ secrets.TELEGRAM_CHAT_ID }}  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
