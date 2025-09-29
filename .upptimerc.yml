@@ -2,20 +2,162 @@
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# --- Sitios a monitorizar ---
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: coregistros.com
+    url: https://www.coregistros.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: mitest.de
+    url: https://mitest.de
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: bevrand.com
+    url: https://www.bevrand.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: milopciones.es
+    url: https://milopciones.es
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: g0crm.info (API WP)
+    url: https://www.g0crm.info/wp-login.php
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: blog.sorteopremios.com
+    url: https://blog.sorteopremios.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: daily.g0crm.com
+    url: https://daily.g0crm.com
+    expectedStatusCodes: [200, 201-299, 301-308, 401-404]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: crm.g0crm.com
+    url: https://crm.g0crm.com/robots.txt
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: sorteopremios.com
+    url: https://sorteopremios.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: admin.coregistros.com
+    url: https://admin.coregistros.com/login.php
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: go.coregistros.com
+    url: https://go.coregistros.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: go.mitest.de
+    url: https://go.mitest.de
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: api2.g0crm.com
+    url: https://api2.g0crm.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: api3.g0crm.com
+    url: https://api3.g0crm.com/openapi.json
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: app.milopciones.es
+    url: https://app.milopciones.es
+    expectedStatusCodes: [200, 201-299, 301-308, 401-404]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: go.bevrand.com
+    url: https://go.bevrand.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: go.topcausas.org
+    url: https://go.topcausas.org
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+  - name: leadcure.coregistros.com
+    url: https://leadcure.coregistros.com
+    expectedStatusCodes: [200, 201-299, 301-308]
+    maxResponseTime: 4000
+    assignees: []
+    type: globalping
+    location: europe
+
+
+# --- (Opcional) Web de estado ---
+status-website:
+  name: Estado de Servicios – Coregistros
+  theme: dark
+  # baseUrl: /<nombre-del-repo>     # si usas GitHub Pages de proyecto
+  # baseUrl: /                      # si usas dominio propio en Pages
+  # logoUrl: https://coregistros.com/path/logo.png
+  # favicon: https://coregistros.com/path/favicon-32x32.png
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
