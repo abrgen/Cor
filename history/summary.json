@@ -76,18 +76,20 @@
     "url": "https://www.g0crm.info/wp-login.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.g0crm.info.ico",
     "slug": "g0crm-info-api-wp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 479,
-    "timeWeek": 455,
-    "timeMonth": 463,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "time": 457,
+    "timeDay": 433,
+    "timeWeek": 447,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2025-10-08": 0
+    }
   },
   {
     "name": "blog.sorteopremios.com",
@@ -106,7 +108,7 @@
     "timeMonth": 1213,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2025-10-08": 42,
+      "2025-10-08": 676,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -135,7 +137,7 @@
     "timeMonth": 1297,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2025-10-08": 42,
+      "2025-10-08": 676,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -182,7 +184,7 @@
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2025-10-08": 42,
+      "2025-10-08": 676,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -301,7 +303,7 @@
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-10-08": 42,
+      "2025-10-08": 676,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
