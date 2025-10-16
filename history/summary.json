@@ -40,18 +40,20 @@
     "url": "https://www.bevrand.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bevrand.com.ico",
     "slug": "bevrand-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 778,
-    "timeWeek": 880,
-    "timeMonth": 982,
-    "timeYear": 982,
-    "dailyMinutesDown": {}
+    "time": 1263,
+    "timeDay": 3687,
+    "timeWeek": 1594,
+    "timeMonth": 1263,
+    "timeYear": 1263,
+    "dailyMinutesDown": {
+      "2025-10-16": 1
+    }
   },
   {
     "name": "milopciones.es",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/milopciones.es.ico",
     "slug": "milopciones-es",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1577,
     "timeDay": 3751,
     "timeWeek": 1947,
     "timeMonth": 1577,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2025-10-16": 0
+      "2025-10-16": 23
     }
   },
   {
@@ -79,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.g0crm.info.ico",
     "slug": "g0crm-info-api-wp",
     "status": "down",
-    "uptime": "52.64%",
+    "uptime": "52.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.64%",
-    "uptimeYear": "52.64%",
+    "uptimeMonth": "52.59%",
+    "uptimeYear": "52.59%",
     "time": 428,
     "timeDay": 296,
     "timeWeek": 380,
     "timeMonth": 428,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-10-16": 894,
+      "2025-10-16": 916,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -118,7 +120,7 @@
     "timeMonth": 1312,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2025-10-16": 894,
+      "2025-10-16": 916,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -155,7 +157,7 @@
     "timeMonth": 1264,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2025-10-16": 894,
+      "2025-10-16": 917,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -210,7 +212,7 @@
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2025-10-16": 894,
+      "2025-10-16": 917,
       "2025-10-15": 1440,
       "2025-10-14": 1414,
       "2025-10-13": 1440,
@@ -337,7 +339,7 @@
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-10-16": 894,
+      "2025-10-16": 917,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
