@@ -4,9 +4,9 @@
     "url": "https://www.coregistros.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.coregistros.com.ico",
     "slug": "coregistros-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 352,
     "timeMonth": 325,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "mitest.de",
     "url": "https://mitest.de",
     "icon": "https://icons.duckduckgo.com/ip3/mitest.de.ico",
     "slug": "mitest-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 238,
     "timeMonth": 165,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "bevrand.com",
     "url": "https://www.bevrand.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bevrand.com.ico",
     "slug": "bevrand-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -52,6 +56,7 @@
     "timeMonth": 1178,
     "timeYear": 1178,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-16": 19
     }
   },
@@ -60,18 +65,19 @@
     "url": "https://milopciones.es",
     "icon": "https://icons.duckduckgo.com/ip3/milopciones.es.ico",
     "slug": "milopciones-es",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 1831,
     "timeDay": 0,
     "timeWeek": 1850,
     "timeMonth": 1831,
     "timeYear": 1831,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-16": 106
     }
   },
@@ -81,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.g0crm.info.ico",
     "slug": "g0crm-info-api-wp",
     "status": "down",
-    "uptime": "32.80%",
+    "uptime": "32.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.80%",
-    "uptimeYear": "32.80%",
+    "uptimeMonth": "32.56%",
+    "uptimeYear": "32.56%",
     "time": 811,
     "timeDay": 0,
     "timeWeek": 1426,
     "timeMonth": 811,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2025-10-27": 50,
+      "2025-10-27": 340,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -131,7 +137,7 @@
     "timeMonth": 1439,
     "timeYear": 1439,
     "dailyMinutesDown": {
-      "2025-10-27": 50,
+      "2025-10-27": 340,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -179,7 +185,7 @@
     "timeMonth": 1199,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-10-27": 50,
+      "2025-10-27": 340,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -215,9 +221,9 @@
     "url": "https://crm.g0crm.com/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/crm.g0crm.com.ico",
     "slug": "crm-g0crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -226,7 +232,9 @@
     "timeWeek": 168,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "sorteopremios.com",
@@ -234,18 +242,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sorteopremios.com.ico",
     "slug": "sorteopremios-com",
     "status": "down",
-    "uptime": "0.07%",
+    "uptime": "0.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 775,
     "timeDay": 0,
     "timeWeek": 849,
     "timeMonth": 775,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2025-10-27": 50,
+      "2025-10-27": 340,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -281,9 +289,9 @@
     "url": "https://admin.coregistros.com/login.php",
     "icon": "https://icons.duckduckgo.com/ip3/admin.coregistros.com.ico",
     "slug": "admin-coregistros-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -292,16 +300,18 @@
     "timeWeek": 160,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "go.coregistros.com",
     "url": "https://go.coregistros.com",
     "icon": "https://icons.duckduckgo.com/ip3/go.coregistros.com.ico",
     "slug": "go-coregistros-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -310,16 +320,18 @@
     "timeWeek": 165,
     "timeMonth": 167,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "go.mitest.de",
     "url": "https://go.mitest.de",
     "icon": "https://icons.duckduckgo.com/ip3/go.mitest.de.ico",
     "slug": "go-mitest-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -328,16 +340,18 @@
     "timeWeek": 157,
     "timeMonth": 151,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "api2.g0crm.com",
     "url": "https://api2.g0crm.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2.g0crm.com.ico",
     "slug": "api2-g0crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -346,16 +360,18 @@
     "timeWeek": 167,
     "timeMonth": 157,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "api3.g0crm.com",
     "url": "https://api3.g0crm.com/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/api3.g0crm.com.ico",
     "slug": "api3-g0crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -364,7 +380,9 @@
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "app.milopciones.es",
@@ -383,7 +401,7 @@
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-10-27": 50,
+      "2025-10-27": 340,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -419,9 +437,9 @@
     "url": "https://go.bevrand.com",
     "icon": "https://icons.duckduckgo.com/ip3/go.bevrand.com.ico",
     "slug": "go-bevrand-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -430,16 +448,18 @@
     "timeWeek": 258,
     "timeMonth": 189,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "go.topcausas.org",
     "url": "https://go.topcausas.org",
     "icon": "https://icons.duckduckgo.com/ip3/go.topcausas.org.ico",
     "slug": "go-topcausas-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -448,16 +468,18 @@
     "timeWeek": 162,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "leadcure.coregistros.com",
     "url": "https://leadcure.coregistros.com",
     "icon": "https://icons.duckduckgo.com/ip3/leadcure.coregistros.com.ico",
     "slug": "leadcure-coregistros-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -466,6 +488,8 @@
     "timeWeek": 307,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   }
 ]
