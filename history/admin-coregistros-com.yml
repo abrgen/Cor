@@ -1,7 +1,7 @@
 url: https://admin.coregistros.com/login.php
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2025-11-15T08:49:57.650Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2025-11-15T09:00:39.943Z
 startTime: 2025-09-29T09:47:19.535Z
 generator: Upptime <https://github.com/upptime/upptime>
