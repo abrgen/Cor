@@ -1,7 +1,7 @@
 url: https://sorteopremios.com
-status: down
+status: degraded
 code: 403
-responseTime: 91
-lastUpdated: 2025-11-16T07:13:27.495Z
+responseTime: 5247
+lastUpdated: 2025-11-16T13:36:03.635Z
 startTime: 2025-09-29T09:47:08.149Z
 generator: Upptime <https://github.com/upptime/upptime>
