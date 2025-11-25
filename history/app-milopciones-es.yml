@@ -1,7 +1,7 @@
 url: https://app.milopciones.es
-status: degraded
+status: down
 code: 404
-responseTime: 5196
-lastUpdated: 2025-11-25T06:17:57.276Z
+responseTime: 165
+lastUpdated: 2025-11-25T06:50:03.530Z
 startTime: 2025-09-29T09:47:25.553Z
 generator: Upptime <https://github.com/upptime/upptime>
