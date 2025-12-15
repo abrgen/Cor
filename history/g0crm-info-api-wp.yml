@@ -1,7 +1,7 @@
 url: https://www.g0crm.info/wp-login.php
-status: degraded
+status: down
 code: 302
-responseTime: 5397
-lastUpdated: 2025-12-15T21:50:28.863Z
+responseTime: 368
+lastUpdated: 2025-12-15T22:00:20.096Z
 startTime: 2025-09-29T09:46:58.189Z
 generator: Upptime <https://github.com/upptime/upptime>
