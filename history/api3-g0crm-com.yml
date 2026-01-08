@@ -1,7 +1,7 @@
 url: https://api3.g0crm.com/openapi.json
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-08T18:00:50.871Z
+status: up
+code: 200
+responseTime: 137
+lastUpdated: 2026-01-08T18:42:13.933Z
 startTime: 2025-09-29T09:47:24.302Z
 generator: Upptime <https://github.com/upptime/upptime>
