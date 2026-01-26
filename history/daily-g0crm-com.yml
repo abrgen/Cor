@@ -1,7 +1,7 @@
 url: https://daily.g0crm.com
-status: down
+status: degraded
 code: 401
-responseTime: 116
-lastUpdated: 2026-01-25T23:12:22.973Z
+responseTime: 4210
+lastUpdated: 2026-01-26T13:38:27.132Z
 startTime: 2025-09-29T09:47:02.846Z
 generator: Upptime <https://github.com/upptime/upptime>
