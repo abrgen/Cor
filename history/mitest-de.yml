@@ -1,7 +1,7 @@
 url: https://mitest.de
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-02-07T23:57:52.953Z
+status: up
+code: 200
+responseTime: 2221
+lastUpdated: 2026-02-08T03:22:52.455Z
 startTime: 2025-09-29T09:46:53.128Z
 generator: Upptime <https://github.com/upptime/upptime>
