@@ -1,7 +1,7 @@
 url: https://go.mitest.de
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-01T22:46:32.008Z
+status: up
+code: 200
+responseTime: 130
+lastUpdated: 2026-03-01T23:01:02.552Z
 startTime: 2025-09-29T09:47:21.945Z
 generator: Upptime <https://github.com/upptime/upptime>
